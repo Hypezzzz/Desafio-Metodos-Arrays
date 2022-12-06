@@ -1,0 +1,15 @@
+.flex-container {
+  display: flex;
+}
+
+.main-display {
+  flex-direction: column;
+}
+
+.tasks-info {
+  flex-direction: column;
+}
+
+.task-completed {
+  background-color: coral;
+}
